@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "ReadingTag: Parse Tags",
+        "command": "parse_tag",
+        "args": {
+            "dirs": [],
+            "files": []
+        }
+    },
+    {
+        "caption": "ReadingTag: Search Tags",
+        "command": "search_tag",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "-", "id": "ctags_commands"
+    }
+]

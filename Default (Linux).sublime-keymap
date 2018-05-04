@@ -1,0 +1,7 @@
+[
+    { 
+    	"keys": ["enter"], 
+    	"command": "navigate_to_content", 
+    	"context": [{"key": "selector", "operand": "text.tag-index"}]
+    }
+]
